@@ -1,0 +1,19 @@
+{
+  "name": "javascript-loops",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaiminkumarmevada/Javascript-loops-practice.git"
+  },
+  "author": "Jaimin Mevada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaiminkumarmevada/Javascript-loops-practice/issues"
+  },
+  "homepage": "https://github.com/jaiminkumarmevada/Javascript-loops-practice#readme",
+  "description": ""
+}
